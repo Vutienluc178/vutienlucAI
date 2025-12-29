@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of GlassBoard AI V1",
+  "description": "Ứng dụng bảng thông minh trong suốt hỗ trợ dạy học, tích hợp chia sẻ màn hình và AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
